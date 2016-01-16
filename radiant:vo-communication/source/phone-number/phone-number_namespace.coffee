@@ -1,0 +1,1 @@
+class @PhoneNumber extends Space.domain.ValueObject

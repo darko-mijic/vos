@@ -1,0 +1,1 @@
+class @Time extends Space.domain.ValueObject

@@ -1,0 +1,1 @@
+class @Duration extends Space.domain.ValueObject

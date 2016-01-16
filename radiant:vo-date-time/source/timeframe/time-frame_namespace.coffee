@@ -1,0 +1,1 @@
+class @TimeFrame extends Space.domain.ValueObject

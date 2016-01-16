@@ -1,0 +1,1 @@
+class @Distance extends Space.domain.ValueObject

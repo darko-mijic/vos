@@ -1,0 +1,1 @@
+Duration.setParser(new Duration.MomentParser)
